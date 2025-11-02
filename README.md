@@ -63,7 +63,7 @@ Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier
 
 Si tienes preguntas o comentarios sobre esta Política de Privacidad, puedes contactarnos en:
 📧 info.optima@hotelesoptima.com
-🌐 [[sitio web o enlace a la app]](https://www.hotelesoptima.com/contacto)
+🌐 [[https://www.hotelesoptima.com/contacto]](https://www.hotelesoptima.com/contacto)
 
 Nota importante para Facebook
 
